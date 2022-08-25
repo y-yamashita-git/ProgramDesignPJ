@@ -27,7 +27,8 @@
 
 # 個人的疑問点(調べればいいなと思う)
 1. 必然的にクラスの数はAbstract Factoryよりも多くなるが、クラス数が増えた場合クラスの管理はどうするのか
-2. クラスの管理が難しく、重複する可能性がAbstractFactoryよりありそうだが、
 
 ### 参考文献
-https://blog.ecbeing.tech/entry/2021/01/20/114000
+1. Factory Methodとは何か：https://blog.ecbeing.tech/entry/2021/01/20/114000
+2. Factory Methodの構成：http://www.itsenka.com/contents/development/designpattern/factory_method.html
+3. コードの書き方：http://teacher.nagano-nct.ac.jp/fujita/LightNEasy.php?page=FactoryMethod
