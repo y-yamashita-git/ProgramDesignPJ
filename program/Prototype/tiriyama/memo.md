@@ -15,5 +15,10 @@
 * `Markdown`：`Prototype`に該当
 * `BulletPoint`：`ConcretePrototype`に該当し、指定した文字の前に`*`を付ける
 
+### 使用する目的
+* 本番環境で実装することはあまりなさそう
+* 実装するのであれば、コピーの処理をインスタンス生成で楽にするためかなと予想
+* 名前の通り試しに動くか確かめてみる際に使用しそう
+
 ### 参考文献
 https://www.techscore.com/tech/DesignPattern/Prototype
